@@ -3,7 +3,7 @@
     <declare-styleable name="RoundedImageView">
         <attr name="cornerRadius" format="dimension" />
         <attr name="reverseMask" format="boolean" />
-        <attr name="roundedCornerImage">
+        <attr name="roundedCornersImage">
             <flag name="topLeft" value="8" />
             <flag name="topRight" value="4" />
             <flag name="bottomLeft" value="2" />
